@@ -1,8 +1,10 @@
 ## Como testar:
 
-
-- Com o apache e SQL online
-    - Execute os migrations
+- Verifique as dependências node
+- npm init
+- npm install
+- Com o apache e MySQL online:
+    - execute os migrations
     - acesse o /register e crie um usuário
     - realize o login em /login/
     - cadastre cliente e produto
